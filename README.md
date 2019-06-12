@@ -1,3 +1,1 @@
 # algorithms-js
-
-##Fibonacci Sequence
